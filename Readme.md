@@ -66,7 +66,6 @@ It opens a blank window and renders a basic **3D rectangle** in the center of th
 
 - A window should appear with a green 3D cube in the center rotating
 
--Screenshot:
--
-- ![Rotating 3D Cube](images/screenshot.png)
--
+### Screenshot:
+
+ ![Rotating 3D Cube](images/screenshot.png)
