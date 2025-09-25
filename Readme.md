@@ -68,5 +68,5 @@ It opens a blank window and renders a basic **3D rectangle** in the center of th
 
 -Screenshot:
 -
--
+- ![Rotating 3D Cube](images/screenshot.png)
 -
