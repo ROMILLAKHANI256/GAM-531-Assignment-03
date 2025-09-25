@@ -50,7 +50,7 @@ It opens a blank window and renders a basic **3D rectangle** in the center of th
 
 ---
 
-### Using Visual Studio 2022 (Recommended for Windows) 
+### Using Visual Studio 2022 
 - Clone the file using git clone or download the zip
 
 #### Open the project:

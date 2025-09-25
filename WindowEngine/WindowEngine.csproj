@@ -11,10 +11,4 @@
     <PackageReference Include="OpenTK" Version="4.9.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Remove="images\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\" />
-  </ItemGroup>
 </Project>
